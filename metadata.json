@@ -1,0 +1,7 @@
+{
+  "name": "Dulces CAMIS - Sales Management",
+  "description": "A comprehensive sales and distribution platform for Dulces CAMIS, allowing companies to manage products, price lists, and sellers, while sellers manage clients, orders, and their agenda.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
